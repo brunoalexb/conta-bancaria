@@ -11,7 +11,6 @@ public class Menu {
 		int opcao;
 		
 		while (true) {
-			
 			System.out.println(Cores.TEXT_YELLOW + Cores.ANSI_BLACK_BACKGROUND + "*****************************************************");
 			System.out.println("                                                     ");
 			System.out.println("                                                     ");
@@ -90,5 +89,6 @@ public class Menu {
 		System.out.println("https://github.com/brunoalexb");
 		System.out.println("*********************************************************");
 	}
+	
 
 }
